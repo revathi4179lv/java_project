@@ -1,0 +1,4 @@
+System.setproperty("webdriver.chrome.driver", "c/user/lenova/wokspace");
+WebDriver driver=new ChromeDriver();
+driver.get("");
+driver.mange.window.maximize();
